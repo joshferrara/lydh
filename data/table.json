@@ -18,6 +18,21 @@
     {
       "words": [
         {
+          "word": "Apart",
+          "explanation": "Your terrible grammar really sets you <em>apart</em> from the crowd."
+        },
+        {
+          "word": "A part",
+          "explanation": "Poor grammar is <em>a part</em> of the reason your family can't stand you."
+        }
+      ],
+      "hint": {
+        "text": "<em>Apart</em> means \"separate\"; <em>a part</em> means the opposite."
+      }
+    },
+    {
+      "words": [
+        {
           "word": "Bare",
           "explanation": "By using improper grammar, you are laying <em>bare</em> your ignorance."
         },
